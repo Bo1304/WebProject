@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-
 hdflkgjldkfjglkjdljgfdjfjsdlfkjsdkfjsdjxdfgdfgfdsss
 
 hdflkgjldkfjglkjdljgfdjfjsdlfkjsdkfjsdj
-=======
+
 hdflkgjldkfjglkjdljgfdjfjsdlfkjsdkfjsdjxdfgdfgfdsss
 
 test123
->>>>>>> NhanViecC
+
